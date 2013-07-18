@@ -1,0 +1,11 @@
+seshCharlie_1 pos yes
+seshCharlie_8 pos yes
+seshCharlie_6 pos yes
+seshCharlie_7 pos yes
+seshCharlie_5 pos yes
+seshCharlie_20 pos yes
+seshCharlie_2 neg yes
+seshCharlie_3 neg yes
+seshCharlie_4 neg yes
+seshCharlie_9 neg yes
+seshCharlie_10 neg yes

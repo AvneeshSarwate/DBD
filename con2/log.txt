@@ -1,0 +1,11 @@
+seshCharlie_46 pos yes
+seshCharlie_37 pos yes
+seshCharlie_41 pos yes
+seshCharlie_31 pos yes
+seshCharlie_33 pos yes
+seshCharlie_33 pos yes
+seshCharlie_48 neg yes
+mid2 pos no
+seshCharlie_35 pos yes
+seshCharlie_40 neg yes
+seshCharlie_39 neg yes

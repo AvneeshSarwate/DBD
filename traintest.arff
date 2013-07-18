@@ -1,0 +1,18 @@
+
+@relation melodies
+
+@attribute conjMel numeric
+@attribute macroMel numeric
+@attribute centMel numeric
+@attribute conjRhy numeric
+@attribute macroRhy numeric
+@attribute centRhy numeric
+@attribute tag {pos, neg}
+
+@data
+
+
+3, 3, 3, 3, 3, 3, pos
+4, 4, 4, 4, 4, 4, pos
+0, 0, 0, 0, 0, 0, neg
+1, 1, 1, 1, 1, 1, neg
